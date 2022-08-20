@@ -6,4 +6,5 @@
     <string name="home_heading">HOME</string>
     <string name="play_butt_text">PLAY!</string>
     <string name="home_message">Please enter your nickname to keep track of your score</string>
+    <string name="choose_category">Choose Category</string>
 </resources>
