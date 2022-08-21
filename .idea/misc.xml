@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="../2kaying/app/src/main/res/drawable/buttons.xml" value="0.1945" />
         <entry key="../2kaying/app/src/main/res/layout/activity_main.xml" value="0.23996734619140625" />
         <entry key="../2kaying/app/src/main/res/layout/choose_category.xml" value="0.19663043105811406" />
         <entry key="../2kaying/app/src/main/res/layout/home.xml" value="0.23771929824561402" />

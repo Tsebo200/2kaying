@@ -23,17 +23,16 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
         android:background="#D9D9D9"
-        android:padding="190dp"
-        android:layout_marginTop="25dp">
+        android:padding="190dp">
 
         <LinearLayout
             android:layout_width="50dp"
             android:layout_height="30dp"
             android:background="@color/purple_200"
-            android:elevation ="30dp"
-            android:padding="10dp">
-        </LinearLayout>
+            android:elevation="30dp"
+            android:padding="10dp"></LinearLayout>
     </LinearLayout>
 
     <com.google.android.material.card.MaterialCardView
@@ -47,7 +46,7 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="#117678"
+        android:background="@drawable/buttons"
         android:textAlignment="center" />
 
         <TextView
@@ -76,7 +75,23 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:background="@color/TertiaryColor"
-            android:textAlignment="center" />
+            android:textAlignment="center">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/how_to_play"
+                android:layout_marginTop="10dp"
+                android:textSize="25sp"
+                android:textAlignment="center"
+                android:fontFamily="@font/arial_rounded_mt_bold"
+                android:letterSpacing="0.05"
+                android:textColor="@color/BackgroundColor"
+                />
+
+        </LinearLayout>
+
+
 
     </com.google.android.material.card.MaterialCardView>
 
